@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    background-color: whitesmoke;
+    justify-content: space-around;
+}
+ul{ 
+    display: flex;
+}
+ul,li, .register{
+    text-align: right;
+}
+
